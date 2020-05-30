@@ -1,5 +1,4 @@
-# seaweed4space
-宇宙キャラ弁 / Space Character Bento lunch box
+# Space Character Bento lunch box / 宇宙キャラ弁
 
 <img width="734" alt="スクリーンショット 2020-05-30 16 56 51" src="https://user-images.githubusercontent.com/416977/83322999-b002f780-a296-11ea-9956-782281abedab.png">
 
