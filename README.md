@@ -12,3 +12,7 @@ This project is working on [NASA International Space Apps Challenge](https://cov
 https://github.com/spaceappssagami/seaweed4space/tree/master/data
 
 ## Use Cases
+
+
+## Lincense
+© FuruhashiLab., CC BY 4.0
